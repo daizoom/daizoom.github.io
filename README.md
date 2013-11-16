@@ -1,0 +1,2 @@
+daizoom.github.io
+=================
